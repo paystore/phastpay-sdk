@@ -10,7 +10,7 @@ Biblioteca para integração com aplicativo PhastPay e Pix.
 
 #### 📚 Documentação PhastPay
 
-<a href="http://177.69.97.18:6655/tabs/phastpay/latest/pre-requisitos/" target="_blank">
+<a href="http://177.69.97.18:6655/tabs/phastpay/latest/requirements/" target="_blank">
   Acesse a nossa documentação oficial
 </a> para saber mais sobre as funcionalidades disponíveis e conferir exemplos de uso.
 
